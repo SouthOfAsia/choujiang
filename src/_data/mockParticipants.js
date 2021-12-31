@@ -1,0 +1,16 @@
+const participants =
+    `小明	10000001	FATP
+小红	10000002	PQE
+小刚	10000003	SPM
+小绿	10000004	MLB
+小紫	10000005	FATP
+小被	10000006	FATP
+小虎	10000007	FATP
+小就	10000008	FATP
+小吗	10000009	FATP
+小哈	10000010	FATP
+笑傲	10000011	FATP
+小虎	10000012	FATP
+`;
+
+export default participants;
